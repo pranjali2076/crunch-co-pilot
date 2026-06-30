@@ -1,0 +1,6 @@
+{
+  "name": "Crunch Co-Pilot",
+  "description": "An emergency action planner for tasks and exams, featuring dynamic triage step cards, custom urgency setup, panic level controls, habit metrics, and context upload hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
